@@ -37,11 +37,10 @@ Only then → execution allowed
 ## Demo Screenshots
 
 ### 1. High-risk decision submitted (status: pending)
-![High Risk](demo1.png)
+![High Risk](docs/demo1.png)
 
 ### 2. Human authorization with named responsibility
-![Authorization](demo2.png)
+![Authorization](docs/demo2.png)
 
 ### 3. Execution after approval
-![Execution](demo3.png)
-
+![Execution](docs/demo3.png)

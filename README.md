@@ -34,13 +34,11 @@ Only then → execution allowed
 
 ---
 
-## Demo Screenshots
+![High Risk](docs/9f18beb2-f0d9-4ccf-a30c-43dbd088660f.png)
 
-### 1. High-risk decision submitted (status: pending)
-![High Risk](docs/demo1.png)
+![Authorization](docs/4c22769e-2256-4ec4-a975-a9dfc68b7944.png)
 
-### 2. Human authorization with named responsibility
-![Authorization](docs/demo2.png)
+![Execution](docs/c20e835a-6d60-4647-b338-ee61cd8f023f.png)
 
-### 3. Execution after approval
-![Execution](docs/demo3.png)
+
+

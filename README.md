@@ -1,4 +1,5 @@
-# Responsibility Gate
+# Responsibility Gate – Pre-Execution Authority Layer
+
 
 Pre-execution authority control layer for AI-assisted decisions.
 
@@ -33,6 +34,12 @@ Human → authorizes with name
 Only then → execution allowed  
 
 ---
+This prototype demonstrates enforcement of named human authority 
+before execution of high-impact AI decisions. 
+
+It is not a dashboard.
+It is not a compliance checklist.
+It is an execution control layer.
 
 ![High Risk](9f18beb2-f0d9-4ccf-a30c-43dbd088660f.png)
 

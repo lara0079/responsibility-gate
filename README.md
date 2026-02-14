@@ -34,11 +34,11 @@ Only then → execution allowed
 
 ---
 
-![High Risk](docs/9f18beb2-f0d9-4ccf-a30c-43dbd088660f.png)
+![High Risk](9f18beb2-f0d9-4ccf-a30c-43dbd088660f.png)
 
-![Authorization](docs/4c22769e-2256-4ec4-a975-a9dfc68b7944.png)
+![Authorization](4c22769e-2256-4ec4-a975-a9dfc68b7944.png)
 
-![Execution](docs/c20e835a-6d60-4647-b338-ee61cd8f023f.png)
+![Execution](c20e835a-6d60-4647-b338-ee61cd8f023f.png)
 
 
 

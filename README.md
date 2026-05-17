@@ -19,10 +19,6 @@ High-risk actions require explicit human authorization before execution.
 • Execution control before action  
 • Audit logging with timestamps  
 
-This is not a dashboard.
-This is not a compliance checklist.
-This is an execution control layer.
-
 ---
 
 ## Basic Flow
@@ -53,6 +49,13 @@ Responsibility Gate addresses this gap by enforcing named human authority before
 
 By binding scope, identity, and authorization to the execution path, the system prevents responsibility from collapsing into heuristic continuation under degraded or concurrent conditions.
 
+## Tech Stack
+Python • FastAPI • Execution gating • Audit logging
+
+## Demo Video
+
+Watch the execution flow demonstration here:
+https://youtu.be/rT880ajJhHg?is=jSttaLb_fB0Sn17Q
 
 ![High Risk](9f18beb2-f0d9-4ccf-a30c-43dbd088660f.png)
 
